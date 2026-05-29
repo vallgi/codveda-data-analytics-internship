@@ -1,6 +1,16 @@
 # Codveda Data Analytics Internship
 
 This repository contains my Data Analytics internship tasks completed for Codveda Technologies.
+## Repository Structure
+
+```text
+codveda-data-analytics-internship/
+├── README.md
+├── level_1_house_data_cleaning_and_eda.py
+├── Level_1_House_Data_Cleaning_and_EDA.ipynb
+└── cleaned_house_prediction_data.csv
+
+
 
 ## Level 1 - Task 1: Data Cleaning and Preprocessing
 
