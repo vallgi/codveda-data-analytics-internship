@@ -1,7 +1,7 @@
 # Codveda Data Analytics Internship
 
 This repository contains my Data Analytics internship tasks completed for Codveda Technologies.
-## Repository Structure
+# Repository Structure
 
 ```text
 codveda-data-analytics-internship/
@@ -12,15 +12,15 @@ codveda-data-analytics-internship/
 
 
 
-## Level 1 - Task 1: Data Cleaning and Preprocessing
+# Level 1 - Task 1: Data Cleaning and Preprocessing
 
 ### Dataset Used
 House Prediction Dataset
 
-### Objective
+# Objective
 The objective of this task was to clean and preprocess a raw dataset using Python and pandas.
 
-### Work Completed
+# Work Completed
 - Loaded the dataset using pandas
 - Assigned proper column names to the dataset
 - Checked dataset structure using `df.info()`
@@ -30,10 +30,10 @@ The objective of this task was to clean and preprocess a raw dataset using Pytho
 - Confirmed that all columns were numerical
 - Exported the cleaned dataset as `cleaned_house_prediction_data.csv`
 
-### Findings
+# Findings
 The dataset contained 506 rows and 14 columns. No missing values were found. No duplicate rows were found. Since all columns were numerical, no categorical standardization or date formatting was required.
 
-### Tools Used
+# Tools Used
 - Python
 - pandas
 - Google Colab
